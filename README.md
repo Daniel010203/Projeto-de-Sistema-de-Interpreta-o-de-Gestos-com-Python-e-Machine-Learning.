@@ -1,0 +1,1 @@
+Neste projeto será desenvolvido um sistema capaz de analisar os gestos do usuário e realizar automações com as saídas dos resultados gerados. Para que isso seja possível, vamos utilizar a própria webcam do computador em conjunto com algoritmos da biblioteca OpenCV, e também, algoritmos de Machine Learning. Tudo isso utilizando Python e Visual Studio.
